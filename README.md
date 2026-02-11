@@ -26,12 +26,7 @@ It can recognize voice commands and respond using speech.
 ```bash
 pip install -r requirements.txt
 
-## 👤  Author
 
-Tamilselvan
-Aspiring Data Analyst
-E-mail:tamilpalanisamy1103@gmail.com
-LinkedIn:www.linkedin.com/in/tamilselvanp1103
 
 
 
