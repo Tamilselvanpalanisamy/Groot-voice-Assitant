@@ -26,7 +26,7 @@ It can recognize voice commands and respond using speech.
 ```bash
 pip install -r requirements.txt
 
-👤 Author
+## 👤  Author
 
 Tamilselvan
 Aspiring Data Analyst
